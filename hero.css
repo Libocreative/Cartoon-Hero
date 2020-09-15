@@ -19,9 +19,13 @@ h1,h2{
 	font-family: 'Alegreya', serif;
 }
 
+/* header styles*/
+/* write your comments here*/
+
 header h1{
 	color: white;
 	font-size: 50px;
+	padding-bottom: 30px;
 	
 }
 
